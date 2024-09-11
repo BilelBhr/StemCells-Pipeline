@@ -12,3 +12,4 @@ To predict how stem cells will differentiate, a specialized Retrieval-Augmented 
 
 
 This work was led in collaboration with Talan Innovation Factory, the R&D Department of Talan Tunisia, in the frame of Talan SummerCamp2024 program which theme was, leveraging technological innovation to empower scientific research in biology. 
+![stem cells life cycle](https://github.com/user-attachments/assets/98e70e2a-bb93-421e-acda-6953b1708c4b)
